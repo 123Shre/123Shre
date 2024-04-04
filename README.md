@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=123shre" alt="123shre" /></a> </p>
 
-- 🌱 I’m currently learning **React , REST API, Node Js**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/123Shre](https://github.com/123Shre)
 
-- 💬 Ask me about **JSP, Servlet, HTML ,CSS ,Java**
+- 💬 Ask me about **JSP, Servlet, HTML ,CSS ,Java, ReactJS, NodeJS**
 
 - 📫 How to reach me **shreyashamrutkar13@gmail.com**
 
